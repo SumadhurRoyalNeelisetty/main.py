@@ -1,4 +1,4 @@
 from operations import add,pi
-add(10,20)
+add(20,30)
 print(pi)
 
